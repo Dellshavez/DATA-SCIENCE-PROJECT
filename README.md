@@ -2,7 +2,7 @@
 Ce dépôt regroupe plusieurs projets liés à la data science, l’intelligence artificielle, le traitement de données, le scraping, et les interfaces utilisateurs avec Streamlit. Ils ont été réalisés dans le cadre de travaux professionnels, académiques ou personnels.
 
 ## 📁 Liste des projets
-🔍 1. DETECTION_fraud_bnp_parisbas_finance.zip
+##  🔍 1. DETECTION_fraud_bnp_parisbas_finance.zip
 Sujet : Détection de fraude dans les transactions bancaires.
 Contenu : Notebook d’analyse, traitement des données et algorithmes de classification.
 Technos : Python, Pandas, Scikit-learn, Random Forest, XGBoost.
